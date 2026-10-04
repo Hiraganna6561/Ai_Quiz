@@ -1,0 +1,14 @@
+{
+  "name": "ai-quiz-generator",
+  "version": "1.0.0",
+  "description": "AI Quiz Generator website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.0.0",
+    "express": "^5.0.0",
+    "openai": "^5.0.0"
+  }
+}
